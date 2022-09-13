@@ -31,7 +31,8 @@ void print_times_table(int n)
 				else if (c < 100)
 				{
 					_putchar(' ');
-					_putchar('0' + e); _putchar('0' + f);
+					_putchar('0' + e);
+				       	_putchar('0' + f);
 				}
 				else
 				{
