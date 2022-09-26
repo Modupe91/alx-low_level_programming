@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
