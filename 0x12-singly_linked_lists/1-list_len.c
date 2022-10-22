@@ -2,8 +2,8 @@
 
 /**
  * list_len - returns then the number of elements in the list.
- * @h: singly linke list.
- * Return: number of elements int the list.
+ * @h: singly linked list.
+ * Return: number of elements in the list.
  */
 size_t list_len(const list_t *h)
 {
